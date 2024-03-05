@@ -15,3 +15,12 @@ Below is the process we can follow while working on the problem of Fitness Watch
 5) Segment user’s activity based on time intervals or the level of fitness metrics and analyze their performance.
 
 So, the process starts with collecting data from a fitness watch. Every fitness watch works with an app on your smartphone. You can collect data from that app on your smartphone. For example, in my case, I collected my fitness watch’s data from Apple’s Health app. If you will also collect fitness data from any app, it will not be in a format to be used for analysis. So, I have already made a clean version of the data available online.
+
+## Click on the links mentioned below to see the interactive plots of my project. These plots are not visible in my jupyter notebook
+a) Step Count Over Time :- https://rawcdn.githack.com/ManavJKumar/Fitness-Watch-Analysis/b837544f0165f63cbeef8a3b9f3f8bd408e3c751/Step%20Count%20Over%20Time.html
+
+b) Distance Covered Over Time :- https://rawcdn.githack.com/ManavJKumar/Fitness-Watch-Analysis/b837544f0165f63cbeef8a3b9f3f8bd408e3c751/Distance%20covered%20overtime.html
+
+c) Energy Burned Over Time :- https://rawcdn.githack.com/ManavJKumar/Fitness-Watch-Analysis/b837544f0165f63cbeef8a3b9f3f8bd408e3c751/Energy%20Burned%20Overtime.html
+
+d) Walking Speed Over Time :- https://rawcdn.githack.com/ManavJKumar/Fitness-Watch-Analysis/b837544f0165f63cbeef8a3b9f3f8bd408e3c751/Walking%20Speed%20Over%20Time.html
